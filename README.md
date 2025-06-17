@@ -16,6 +16,11 @@ It answers basic career-related questions using keyword matching and natural lan
 2. Run the notebook `CareerChatbot_Project1.ipynb`
 3. Type your questions. Type 'bye' to exit.
 
+career_guidance_chatbot_ai/
+├── CareerChatbot_Project1.ipynb
+├── requirements.txt
+└── README.md
+
 ## Author
 Satyam Adinath Kurhe  
 AI | ML | Full Stack | Data Science
